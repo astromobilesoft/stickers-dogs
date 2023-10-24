@@ -1,0 +1,222 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.dogs",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "dogsa5",
+      "name": "Dogs Animated (5)",
+      "animated_sticker_pack": true,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dogsa3",
+      "name": "Dogs Animated (3)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "dogsa4",
+      "name": "Dogs Animated (4)",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "dogsa2",
+      "name": "Animated (2)",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "grinchdog",
+      "name": "Grinch Dog",
+      "animated_sticker_pack": true,
+      "stickers": "7"
+    },
+    {
+      "identifier": "haopup",
+      "name": "Haopup",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "dogs7",
+      "name": "Dogs Animated",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "thesecretlifeofpet1",
+      "name": "The Secret Life of Pet 1",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "thesecretlifeofpet2",
+      "name": "The Secret Life of Pet 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "doca1",
+      "name": "Doca 1",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "doca2",
+      "name": "Doca 2",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "dogs6",
+      "name": "Dogs 6",
+      "animated_sticker_pack": true,
+      "stickers": "17"
+    },
+    {
+      "identifier": "dogsurprised",
+      "name": "Dogs Surprised",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dogscrying",
+      "name": "Dogs Crying",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dogsa1",
+      "name": "Animated (1)",
+      "animated_sticker_pack": true,
+      "stickers": "11"
+    },
+    {
+      "identifier": "monchi1",
+      "name": "Monchi (1)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "monchi2",
+      "name": "Monchi (2)",
+      "animated_sticker_pack": true,
+      "stickers": "10"
+    },
+    {
+      "identifier": "dogs4",
+      "name": "Dogs (4)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dogs5",
+      "name": "Dogs (5)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "actions1",
+      "name": "Actions (1)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "filter1",
+      "name": "Filter (1)",
+      "animated_sticker_pack": true,
+      "stickers": "21"
+    },
+    {
+      "identifier": "frenchbulldog1",
+      "name": "French Bulldog (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "frenchbulldog2",
+      "name": "French Bulldog (2)",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "puglife",
+      "name": "Pug Life",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dachshund2",
+      "name": "Dachshund (2)",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "crazydog",
+      "name": "Crazy Dog",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "siberian",
+      "name": "Siberian",
+      "animated_sticker_pack": true,
+      "stickers": "20"
+    },
+    {
+      "identifier": "realanimated1",
+      "name": "Real Animated",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "fredthepug",
+      "name": "Fred the Pug",
+      "animated_sticker_pack": true,
+      "stickers": "25"
+    },
+    {
+      "identifier": "muffindog1",
+      "name": "Muffin Dog 1",
+      "animated_sticker_pack": true,
+      "stickers": "13"
+    },
+    {
+      "identifier": "bakaakio1",
+      "name": "Bakaakio (1)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bakaakio2",
+      "name": "Bakaakio (2)",
+      "animated_sticker_pack": true,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bakaakio3",
+      "name": "Bakaakio (3)",
+      "animated_sticker_pack": true,
+      "stickers": "18"
+    },
+    {
+      "identifier": "muffindog2",
+      "name": "Muffin Dog 2",
+      "animated_sticker_pack": true,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dogs2",
+      "name": "Pack Dogs 2",
+      "animated_sticker_pack": true,
+      "stickers": "9"
+    },
+    {
+      "identifier": "dogs3",
+      "name": "Dogs 3",
+      "animated_sticker_pack": true,
+      "stickers": "24"
+    }
+  ]
+}

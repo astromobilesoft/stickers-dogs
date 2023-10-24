@@ -1,0 +1,180 @@
+{
+  "android_play_store_link":"https://play.google.com/store/apps/details?id=com.astromobile.stickers.dogs",
+  "ios_app_store_link": "",
+  "sticker_packs": [
+    {
+      "identifier": "dogs10",
+      "name": "Dogs 10",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "dogs11",
+      "name": "Dogs 11",
+      "animated_sticker_pack": false,
+      "stickers": "14"
+    },
+    {
+      "identifier": "christmas",
+      "name": "Pack Christmas (1)",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "christmas2",
+      "name": "Pack Christmas (2)",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "dogs8",
+      "name": "Funny Dogs",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "bullterrier1",
+      "name": "Bull Terrier 1",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "pitbull1",
+      "name": "Pitbull 1",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "cutedogs",
+      "name": "Cute Dogs",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "sweetdogs1",
+      "name": "Sweet Dogs",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
+      "identifier": "bulldog",
+      "name": "Pack Bulldog",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "beagle",
+      "name": "Pack Beagle",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "funnydogs",
+      "name": "Pack Funny Dogs",
+      "animated_sticker_pack": false,
+      "stickers": "26"
+    },
+    {
+      "identifier": "golden",
+      "name": "Pack Golden",
+      "animated_sticker_pack": false,
+      "stickers": "29"
+    },
+    {
+      "identifier": "caniche",
+      "name": "Pack Caniche",
+      "animated_sticker_pack": false,
+      "stickers": "30"
+    },
+    {
+      "identifier": "telegram113",
+      "name": "Pack 17",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "telegram112",
+      "name": "Pack 16",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "telegram111",
+      "name": "Pack 15",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "galgo",
+      "name": "Pack Galgo",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "telegram5",
+      "name": "Pack 9",
+      "animated_sticker_pack": false,
+      "stickers": "24"
+    },
+    {
+      "identifier": "telegram1",
+      "name": "Pack Dog Chat",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "grandanes",
+      "name": "Gran Danes",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "expression",
+      "name": "Pack Expression",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    },
+    {
+      "identifier": "dogo",
+      "name": "Pack Dogo",
+      "animated_sticker_pack": false,
+      "stickers": "13"
+    },
+    {
+      "identifier": "boston",
+      "name": "Pack Boston Terrier",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "real3",
+      "name": "Real Dogs 3",
+      "animated_sticker_pack": false,
+      "stickers": "18"
+    },
+    {
+      "identifier": "real2",
+      "name": "Real Dogs 2",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "real1",
+      "name": "Real Dogs 1",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "sharpei",
+      "name": "Pack Shar Pei",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "doberman",
+      "name": "Pack Doberman",
+      "animated_sticker_pack": false,
+      "stickers": "20"
+    }
+  ]
+}
