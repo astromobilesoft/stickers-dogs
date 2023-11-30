@@ -3,6 +3,36 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "stardogs1",
+      "name": "Star Dogs 1",
+      "animated_sticker_pack": false,
+      "stickers": "22"
+    },
+    {
+      "identifier": "dogmom1",
+      "name": "Dog Mom 1",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
+      "identifier": "dogmom2",
+      "name": "Dog Mom 2",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dogmom3",
+      "name": "Dog Mom 3",
+      "animated_sticker_pack": false,
+      "stickers": "16"
+    },
+    {
+      "identifier": "dogmom1",
+      "name": "Dog Mom 1",
+      "animated_sticker_pack": false,
+      "stickers": "12"
+    },
+    {
       "identifier": "dogs13",
       "name": "Dogs 13",
       "animated_sticker_pack": false,
