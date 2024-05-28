@@ -3,6 +3,30 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "chibibeagle1",
+      "name": "Chibi Beagle",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "chibibelgian1",
+      "name": "Chibi Belgian",
+      "animated_sticker_pack": false,
+      "stickers": "15"
+    },
+    {
+      "identifier": "chibienglishmastiff1",
+      "name": "Chibi English Mastiff",
+      "animated_sticker_pack": false,
+      "stickers": "21"
+    },
+    {
+      "identifier": "chibifrenchbulldog1",
+      "name": "Chibi French Bulldog",
+      "animated_sticker_pack": false,
+      "stickers": "23"
+    },
+    {
       "identifier": "stardogs1",
       "name": "Star Dogs 1",
       "animated_sticker_pack": false,
