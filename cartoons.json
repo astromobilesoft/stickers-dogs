@@ -3,6 +3,12 @@
   "ios_app_store_link": "",
   "sticker_packs": [
     {
+      "identifier": "dogs15",
+      "name": "Dogs 15",
+      "animated_sticker_pack": false,
+      "stickers": "10"
+    },    
+    {
       "identifier": "chibibeagle1",
       "name": "Chibi Beagle",
       "animated_sticker_pack": false,
